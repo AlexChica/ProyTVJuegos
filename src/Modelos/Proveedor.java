@@ -4,7 +4,7 @@ public class Proveedor {
 	//datos del proveedor
 	public String RUC;
 	public String Nombre;
-	public String Dirección;
+	public String Direccion;
 	public String Telefono;
 	public String Email;
 	public String Celular;
@@ -15,7 +15,7 @@ public class Proveedor {
 		super();
 		RUC = ruc;
 		Nombre = nombre;
-		Dirección = direccion;
+		Direccion = direccion;
 	    Telefono = telefono;
 		Email = email;
 		Celular = celular;
